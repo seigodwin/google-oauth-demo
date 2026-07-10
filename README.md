@@ -18,7 +18,7 @@ The goal of this project is to understand how modern applications allow users to
 
 - ASP.NET Core Web API
 - C#
-- .NET 8
+- .NET 10
 - Google OAuth 2.0
 - ASP.NET Core Authentication & Authorization
 - Scalar OpenAPI UI
